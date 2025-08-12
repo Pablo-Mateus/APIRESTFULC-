@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6pYdHPTIxgs=",
+  "dgSpecHash": "yiE6gN/EFsg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pablo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

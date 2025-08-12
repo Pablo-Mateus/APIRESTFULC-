@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\Backend\\Backend.csproj": {}
+    "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\Backend\\Backend.csproj": {
+    "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\BlazorApp1\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
